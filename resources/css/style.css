@@ -17,3 +17,13 @@ header {
   border-bottom: 1px solid seashell;
   align-items: center;
 }
+
+header img {
+  height: 50px;
+  padding-left: 10px;
+}
+
+nav {
+  text-align: right;
+  flex-grow: 1;
+}
